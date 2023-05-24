@@ -1,0 +1,12 @@
+{
+    "name": "PMT PDF Loader",
+    "version": "1.0.0",
+    "description": "Loads PMT PDFs",
+    "manifest_version": 3,
+    "author": "Leo Tovell",
+    "action":{
+        "default_popup": "main.html",
+        "default_title": "PMT PDF Loader"
+    },
+    "permissions": ["tabs"]
+}
