@@ -2,7 +2,7 @@
 A chrome extension to load PMT PDFs when they get stuck 
 
 ### Installation
-1. Go to chrome extensions
+1. Go to [chrome extensions](chrome://extensions/ "Chrome Extensions")
 2. Enable Developer Mode
 3. Load Packed (top left)
 4. Select source directory
